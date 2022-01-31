@@ -7,8 +7,7 @@ Hello! Welcome to the Nano degree submission template! This README will briefly 
 ## How are homeworks structured?
 Homeworks tend to be structured in sections (called tasks) with potentially multiple questions per section. These questions might touch on anything from python, to sql, to anything in your specialisation (software principles, machine learning etc.).
 
-Depending on the question, you may be asked to write your answer in code, as text.
-
+Depending on the question, you may be asked to write your answer as code. If so, do make sure your code is runable (i.e., but it in a .py file if it's python code).
 ## Why not use pdf:s, word, or pages?
 Two reasons:
 - GitHub Rendering: GitHub unfortunately does not render them not allowing line-by-line feedback.
