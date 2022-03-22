@@ -90,12 +90,30 @@ This part of the guide assumes you've followed the steps outlined above.
 
 2. After creating the branch, you can create a new folder to contain everything that will go into the submission. Here's its recommended to follow the naming scheme: e.g. for homework due in the second week of the foundation, make a folder called "foundation-week-2".
 
-3. In the homework folder, feel free to create the files you need to answer the questions, be it markdown or code. Don't forget to regularly commit and push if you want to backup your work! E.g., adding and pushing changes would look something like this:
+3. In the homework folder, feel free to create the files you need to answer the questions, be it markdown or code. Don't forget to regularly commit and push if you want to backup your work! E.g., adding and pushing changes would could look something like this:
     ```
-    # add and commit my newly created python code for task 1.
+    # add and commit my newly created python code for task 1
     $ git add t1q1.py
-    $ git commit -am t1q1.py "add answers for task 1, question 1"
-    # Note that the branchname may be different if you used something else when using the checkout command.
+    $ git commit -am "add answers for task 1, question 1"
+    
+    # add and commit my newly created python code for task 2
+    $ git add t2q1.py
+    $ git add t2q2.py
+    $ git add t2q3.py
+    $ git commit -am "add answers for task 2, question 1-3"
+
+    # add and commit my newly created python code for task 3
+    $ git commit -am "add answers for task 2, question 1-3"
+    $ git add t3q1.py
+    $ git add t3q2.py
+    $ git commit -am "add answers for task 3, question 1-2"
+
+    # You can push earlier if you want to be extra careful to back things up!
     $ git push -u origin week2
     ```
 
+4. Once you're done with your submission, you can navigate to the remote repository using your browser, i.e. navigate to www.github.com/{{username}}/{{repository}}. Once there, you'll see an update to a branch was made and a greenbox prompting to make a pull request. Click the button!
+
+5. Before hitting "Create pull request", make sure instructor assigned as your marker is also added as a reviewer. If the instructor doesn't pop up when you try to assign a reviewer, make sure you have invited them as a collaborator to the repository, see: [inviting collborators](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository).
+
+6. press create pull request and that's you done with the submission!
