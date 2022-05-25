@@ -27,7 +27,7 @@ The easiest way of using this template is to clone this repository and use it as
     
     ![image info](./images/fork-screen.png)
 
-    In the old repository, enter the url of the template repo, i.e.: https://github.com/Expan75/cfg-homework-template. 
+    In the old repository, enter the url of the template repo, i.e.: https://github.com/codefirstgirls-uk/cfg-homework-template. 
     
     In the repository name field, feel free to name the repository anything you want; short and descriptive is usually preferred!
 

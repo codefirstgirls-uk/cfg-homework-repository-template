@@ -1,5 +1,7 @@
 #### This file specifies what things git should NOT track, read more here: https://git-scm.com/docs/gitignore
 
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
