@@ -1,0 +1,7 @@
+Total: 35/35 = 100 = 100%
+
+Well done - lovely understanding shown of GitHub and Git through the explanations. (13/13)
+
+FANTASTIC - lovely ATM program. Well done using functions, handling exceptions and catering for all requirements. (12/12)
+
+Great work! Tests run successfully as they are structured correctly. Correct functions imported from the main file. (10/10)
